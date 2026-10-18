@@ -1,0 +1,9 @@
+screenshot: PASS
+right_taller: PASS
+equal: PASS
+bad_size: PASS
+negative_size: PASS
+bad_element: PASS
+missing_element: PASS
+overflow_element: PASS
+All 11 allocation failure positions: PASS (exit code 2)
